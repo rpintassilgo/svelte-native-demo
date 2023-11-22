@@ -13,7 +13,7 @@ Small svelte native demo that contains a simple counter component and a simple c
 
 [^1]: This is an optional step, however it provides an easy-to-use interface for installing Android SDKs and an Android emulator.
 
-For more information, check the official NativeScript documentation:
+For more information, check the official NativeScript documentation:  
 [NativeScript Linux tutorial](https://docs.nativescript.org/setup/linux)
 [NativeScript Windows tutorial](https://docs.nativescript.org/setup/windows)
 [NativeScript MacOS tutorial](https://docs.nativescript.org/setup/macos)
